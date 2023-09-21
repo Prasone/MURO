@@ -1,0 +1,56 @@
+*,
+
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.backgroud {
+    background: url(aset/BG-Omni.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.img {
+    width: 780px;
+    height: 420px;
+}
+
+.container {
+  border: 2px dashed green;
+  width: 55%;
+  height: 30vh;
+  justify-content: center;
+  margin-top: 1%;
+}
+
+.col-8 {
+    margin-left: 36%;
+}
+
+.col-6 {
+    padding-left: 20%;
+    background-color: aqua;
+}
+
+
+
+.btn {
+    width: 40%;
+    
+}
+
+.footer {
+    height: 10vh;
+    background-color: rgb(113, 113, 173);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    height: 50%;
+    width: 40px;
+}
