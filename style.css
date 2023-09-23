@@ -1,53 +1,45 @@
-*,
-
-body {
+body{
     margin: 0%;
     padding: 0%;
 }
 
-.backgroud {
-    background: url(aset/BG-Omni.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100vh;
-}
+hr {
+    width: 50%;
+    margin: auto;
+    color: rgb(26, 54, 179);
+  }
 
 .img {
-    width: 780px;
-    height: 420px;
+    width: 60%;
+    height: 300px;
 }
 
-.container {
+.container{
   border: 2px dashed green;
-  width: 55%;
-  height: 30vh;
-  justify-content: center;
-  margin-top: 1%;
+  width: 60%;
 }
 
-.col-8 {
-    margin-left: 36%;
+.col-8{
+    margin-left: 38%;
 }
 
-.col-6 {
-    padding-left: 20%;
-    background-color: aqua;
+.col-6{
+    padding-left: 15%;  
 }
-
-
 
 .btn {
-    width: 40%;
-    
+    width: 150px;
 }
 
-.footer {
+
+.footer{
     height: 10vh;
-    background-color: rgb(113, 113, 173);
+    background-color: rgb(133, 133, 173);
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 6%;
 }
 
 .logo{
