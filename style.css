@@ -3,6 +3,12 @@ body{
     padding: 0%;
 }
 
+.container-background{
+    background: url(aset/BG-Omni.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 hr {
     width: 50%;
     margin: auto;
@@ -10,13 +16,13 @@ hr {
   }
 
 .img {
-    width: 60%;
+    width: 55%;
     height: 350px;
 }
 
 .container{
   border: 2px dashed green;
-  width: 60%;
+  width: 55%;
 }
 
 .col-8{
