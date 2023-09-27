@@ -105,8 +105,9 @@ hr {
     }
 
     .container {
-        width: 90%;
+        width: 95%;
         height: auto;
+        height: 33vh;
     }
 
     .col-8 {
