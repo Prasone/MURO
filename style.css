@@ -57,11 +57,12 @@ hr {
 .logo{
     height: 50%;
     width: 40px;
+    margin-right: 1%;
 }
 
 
 
-@media (min-width: 1200px){
+@media (min-width: 1440px){
 
     .container-background {
         height: 100vh;  
@@ -124,5 +125,13 @@ hr {
 
     .footer {
         margin-top: 16%;
+    }
+
+    .foo {
+        font-size: 65%;
+    }
+    
+    .logo {
+        width: 6%;
     }
 }
